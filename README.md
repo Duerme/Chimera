@@ -9,6 +9,7 @@ Chimera Bot is a multifunctional viewer bot designed to work with Twitch, YouTub
 ## Overview
 Features
 - Multi-Platform Support: Works with Twitch, YouTube, and Kick.
+- Multi-OS Support: Works with Windows, Linux, and MacOS!
 - Proxy Management: Randomly selects proxy servers for each session.
 - Quality Setting: Allows setting the stream quality to 160p for low bandwidth/resource usage (***CURRENTLY ONLY WORKING FOR TWITCH***).
 - User Settings Management: Saves and loads user settings for convenience.
