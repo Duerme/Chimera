@@ -2,6 +2,8 @@
 
 Chimera Bot is a multifunctional viewer bot designed to work with Twitch, YouTube, and Kick platforms. It leverages Selenium WebDriver to automate browser actions and simulate user interactions. The bot can configure stream quality and manage proxy servers for anonymity.
 
+![alt text](image.png)
+
 ## Overview
 Features
 - Multi-Platform Support: Works with Twitch, YouTube, and Kick.
