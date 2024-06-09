@@ -1,0 +1,3 @@
+Platform: twitch
+Username or URL: ninja
+Set 160p: yes
